@@ -1,2 +1,2 @@
 # Wabiskills
-mern stack development
+My journey
